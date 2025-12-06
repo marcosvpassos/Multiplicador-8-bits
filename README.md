@@ -1,7 +1,11 @@
 # Multiplicador-8-bits
 Um projeto desenvolvido em C para multiplicação em 8 bits, houve a prototipação em Tinkercad e implementação em um arduino Uno.
 
-Requisitos: Software Arduino IDE 2.3.6
+Requisitos: 
+  De Software:
+  - Arduino IDE 2.3.6
+  De Harware:
+  - Um computador;
   - Um arduino Uno;
   - Um barramento para conexão com seu computador;
   - Uma protoboard;
