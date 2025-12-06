@@ -4,6 +4,7 @@ Um projeto desenvolvido em C para multiplicação em 8 bits, houve a prototipaç
 Requisitos: 
   De Software:
   - Arduino IDE 2.3.6
+
   De Harware:
   - Um computador;
   - Um arduino Uno;
