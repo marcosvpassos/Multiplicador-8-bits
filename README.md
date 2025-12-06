@@ -39,4 +39,5 @@ Inicialmente há um _if number==0_, está condição será satisfeita toda vez q
 Posterior ao if, há um *for* de 0-7 (que lê os 8 bits de um número para o mostrar nos led), interno a esse loop a dois _if_;
   - _se bitRead(numero, i)==1_: se o bit na posição i for 1, então o led na posição correspondente é ligado;
   - _se não_: se o bit na posição i for 0, então apaga o bit na posição corresponte.
-  -  
+# Projeto do Tinkercad
+https://www.tinkercad.com/things/gpab06TS18O-multiplicador-led
